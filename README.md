@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Bima PN
+# 👋 Hi Everyone
 
 **`Fullstack Developer (Developer/Freelancer)`**
 ###
