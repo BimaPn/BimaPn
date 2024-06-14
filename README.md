@@ -2,8 +2,10 @@
 
 **`Fullstack Developer (Developer/Freelancer)`**
 ###
-
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 500k subscribers.
+I'm a passionate full-stack developer and freelancer from Indonesia. I've created various web projects using modern frameworks and technologies. Recently, I've developed an interest in mobile development, and I'm excited to explore this new field. Let's create something amazing together!
+<br />
+<br />
+And dont forget to check my <a href="https://bimapn.vercel.app">portfolio</a> too.
 
 
 <div align="left">
