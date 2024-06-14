@@ -2,7 +2,7 @@
 
 **`Fullstack Developer (Developer/Freelancer)`**
 ###
-I'm a passionate full-stack developer and freelancer from Indonesia. I've created various web projects using modern frameworks and technologies. Recently, I've developed an interest in mobile development, and I'm excited to explore this new field. Let's create something amazing together!
+I'm a passionate full-stack developer and freelancer from Indonesia. I've created various web projects using modern frameworks and technologies. Currently, I'm exploring my interest in mobile development and looking forward to creating innovative mobile applications. Let's create something amazing together!
 <br />
 <br />
 And dont forget to check my <a href="https://bimapn.vercel.app">portfolio</a> too.
