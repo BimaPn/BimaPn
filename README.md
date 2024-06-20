@@ -1,8 +1,8 @@
 # 👋 Hi Everyone
 
-**`Fullstack Developer (Developer/Freelancer)`**
+**`Web Developer (Developer/Freelancer)`**
 ###
-I'm a passionate Fullstack Developer and Freelancer. I've created various web projects using modern frameworks and technologies. Currently, I'm exploring my interest in mobile development and looking forward to creating innovative mobile applications. Let's create something amazing together!
+I'm a passionate Web Developer and Freelancer. I've created various web projects using modern frameworks and technologies. Currently, I'm exploring my interest in mobile development and looking forward to creating innovative mobile applications. Let's create something amazing together!
 <br />
 <br />
 And dont forget to check my <a href="https://bimapn.vercel.app">portfolio</a> too.
